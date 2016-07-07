@@ -17,3 +17,5 @@ ___
 ## Process:
 ___
 1. Learn React through ToDo tutorial: (https://www.youtube.com/watch?v=IR6smI_YJDE)
+  * Install Webpack and React basic modules
+  * Create simple components wired to index.html
