@@ -16,4 +16,4 @@ ___
 
 ## Process:
 ___
-1. Learn React through simple ToDo tutorial: (https://www.youtube.com/watch?v=IR6smI_YJDE)
+1. Learn React through ToDo tutorial: (https://www.youtube.com/watch?v=IR6smI_YJDE)

@@ -30,12 +30,12 @@ module.exports = {
         // looking for javascript or jsx files
         test: /\.jsx?$/,
         // like gitignore
-        exclude: /node_module/,
+        exclude: /node_modules/,
         // modules installed to help load app
         // react-hot for hot reloading
         // babel transpile to es6 with react syntax (includes jsx, not standard javascript)
         // es2015 presets for additional features
-        loader: ['react-hot', 'babel?presets[]=react,presets[]=es2015']
+        loaders: ['react-hot', 'babel?presets[]=react,presets[]=es2015']
       }
     ]
   },
